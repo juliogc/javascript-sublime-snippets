@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+cloneNode(${1:true});
+]]></content>
+    <tabTrigger>cloneNode</tabTrigger>
+    <scope>source.js</scope>
+    <description>cloneNode</description>
+</snippet>

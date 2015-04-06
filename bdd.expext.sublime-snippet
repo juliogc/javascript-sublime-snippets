@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+expect(${1:value})
+]]>
+    </content>
+    <tabTrigger>expect</tabTrigger>
+    <scope>source.js</scope>
+    <description>BDD expect</description>
+</snippet>

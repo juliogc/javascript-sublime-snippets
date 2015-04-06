@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+toBeDefined(${1:assert});
+]]>
+    </content>
+    <tabTrigger>toBeDefined</tabTrigger>
+    <scope>source.js</scope>
+    <description>BDD toBeDefined</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+toEqual(jasmine.any(${1:Object}));
+]]>
+    </content>
+    <tabTrigger>toEqualAny</tabTrigger>
+    <scope>source.js</scope>
+    <description>BDD toEqualAny</description>
+</snippet>

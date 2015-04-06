@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+insertBefore(${1:newElemente}, ${2:element.firstChild});
+]]></content>
+    <tabTrigger>insertBefore</tabTrigger>
+    <scope>source.js</scope>
+    <description>insertBefore</description>
+</snippet>

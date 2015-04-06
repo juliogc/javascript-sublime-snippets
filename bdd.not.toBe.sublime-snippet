@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+not.toBe(${1:assert});
+]]>
+    </content>
+    <tabTrigger>not.toBe</tabTrigger>
+    <scope>source.js</scope>
+    <description>BDD not.toBe</description>
+</snippet>

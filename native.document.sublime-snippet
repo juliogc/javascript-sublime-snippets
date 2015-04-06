@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[document.]]></content>
+    <tabTrigger>document</tabTrigger>
+    <scope>source.js</scope>
+    <description>document</description>
+</snippet>

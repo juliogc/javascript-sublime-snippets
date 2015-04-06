@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+innerHTML = '${1:element}';
+]]></content>
+    <tabTrigger>innerHTML</tabTrigger>
+    <scope>source.js</scope>
+    <description>innerHTML</description>
+</snippet>

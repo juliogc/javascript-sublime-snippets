@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+appendChild(${2:element});
+]]></content>
+    <tabTrigger>appendChild</tabTrigger>
+    <scope>source.js</scope>
+    <description>appendChild</description>
+</snippet>

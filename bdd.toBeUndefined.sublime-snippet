@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+toBeUndefined(${1:assert});
+]]>
+    </content>
+    <tabTrigger>toBeUndefined</tabTrigger>
+    <scope>source.js</scope>
+    <description>BDD toBeUndefined</description>
+</snippet>

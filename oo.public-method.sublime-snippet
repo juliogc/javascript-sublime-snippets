@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$public.${1:name}${2: = ${3:function (${4:argument}) \{
+    ${0:// body}
+\}}};
+]]></content>
+    <tabTrigger>public</tabTrigger>
+    <scope>source.js</scope>
+    <description>$public method for OO JS</description>
+</snippet>
