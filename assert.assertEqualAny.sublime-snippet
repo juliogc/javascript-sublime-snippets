@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+Assert.assertEqualAny(${1:argument}, ${2:instanceType});${0}
+]]>
+    </content>
+    <tabTrigger>assertEqualAny</tabTrigger>
+    <scope>source.js</scope>
+    <description>Assert assertEqualAny Test Suite</description>
+</snippet>

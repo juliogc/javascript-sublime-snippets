@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+Assert.assertFalse(${1:argument});${0}
+]]>
+    </content>
+    <tabTrigger>assertFalse</tabTrigger>
+    <scope>source.js</scope>
+    <description>Assert assertFalse Test Suite</description>
+</snippet>

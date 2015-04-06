@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+Assert.assertToBe(${1:argument}, ${2:original});${0}
+]]>
+    </content>
+    <tabTrigger>assertToBe</tabTrigger>
+    <scope>source.js</scope>
+    <description>Assert assertToBe Test Suite</description>
+</snippet>

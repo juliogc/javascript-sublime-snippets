@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+Assert.assertTrue(${1:argument});${0}
+]]>
+    </content>
+    <tabTrigger>assertTrue</tabTrigger>
+    <scope>source.js</scope>
+    <description>Assert assertTrue Test Suite</description>
+</snippet>

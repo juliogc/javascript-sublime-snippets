@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+Assert.assertEqual(${1:argument}, ${2:original});${0}
+]]>
+    </content>
+    <tabTrigger>assertEqual</tabTrigger>
+    <scope>source.js</scope>
+    <description>Assert assertEqual Test Suite</description>
+</snippet>
