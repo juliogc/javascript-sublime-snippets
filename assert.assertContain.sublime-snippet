@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+Assert.assertDefined(${1:argument});${0}
+]]>
+    </content>
+    <tabTrigger>assertContain</tabTrigger>
+    <scope>source.js</scope>
+    <description>Assert assertContain Test Suite</description>
+</snippet>
