@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+toContain(${1:assert});
+]]>
+    </content>
+    <tabTrigger>toEqual</tabTrigger>
+    <scope>source.js</scope>
+    <description>BDD toEqual</description>
+</snippet>
