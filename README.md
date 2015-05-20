@@ -7,6 +7,9 @@ Author
 
 JG Corradi (jgcorradi@gmail.com)
 
+Collaborators
+------
+Renato Luna (renatoluna@gmail.com)
 
 License
 -------
