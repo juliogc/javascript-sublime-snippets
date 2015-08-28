@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
 function ${1:Class} (${2:argument}) \{
-
     var \$private = {};
     var \$public = this;
 
@@ -10,14 +9,9 @@ function ${1:Class} (${2:argument}) \{
         }return \$public;
     \};
 
-    \$public.init = function () {
-        // logic...
-    }
-
     ${0}
 
     return \$private.__constructor(${2:argument});
-
 \}
 ]]></content>
     <tabTrigger>Class</tabTrigger>
