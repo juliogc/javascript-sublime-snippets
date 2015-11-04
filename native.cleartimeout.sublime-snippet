@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[clearTimeout(function () {
+	${2:// body...}
+}, ${1:millis});
+]]></content>
+    <tabTrigger>clearTimeout</tabTrigger>
+    <scope>source.js</scope>
+    <description>clearTimeout</description>
+</snippet>

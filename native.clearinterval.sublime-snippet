@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[clearInterval(function() {
+	${2:// body...}
+}, ${1:millis});
+]]></content>
+    <tabTrigger>clearInterval</tabTrigger>
+    <scope>source.js</scope>
+    <description>clearInterval</description>
+</snippet>
