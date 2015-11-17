@@ -1,8 +1,5 @@
 <snippet>
-    <content><![CDATA[clearTimeout(function () {
-	${2:// body...}
-}, ${1:millis});
-]]></content>
+    <content><![CDATA[clearTimeout(${1:timeout});${0}]]></content>
     <tabTrigger>clearTimeout</tabTrigger>
     <scope>source.js</scope>
     <description>clearTimeout</description>

@@ -1,8 +1,5 @@
 <snippet>
-    <content><![CDATA[clearInterval(function() {
-	${2:// body...}
-}, ${1:millis});
-]]></content>
+    <content><![CDATA[clearInterval(${1:interval});${0}]]></content>
     <tabTrigger>clearInterval</tabTrigger>
     <scope>source.js</scope>
     <description>clearInterval</description>
