@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-addEventListener('${1:event}', function(event) {
-    ${2}
-});
+addEventListener('${1:event}', ${2:function(event) \{
+    ${3:// body...}
+\}});${0}
 ]]></content>
     <tabTrigger>addEventListener</tabTrigger>
     <scope>source.js</scope>

@@ -4,7 +4,6 @@ JavaScript Snippets
 
 Author
 ------
-
 JG Corradi (jgcorradi@gmail.com)
 
 Collaborators
