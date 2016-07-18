@@ -3,7 +3,7 @@
 toContain(${1:assert});
 ]]>
     </content>
-    <tabTrigger>toEqual</tabTrigger>
+    <tabTrigger>toContain</tabTrigger>
     <scope>source.js</scope>
-    <description>BDD toEqual</description>
+    <description>BDD toContain</description>
 </snippet>
